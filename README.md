@@ -26,12 +26,7 @@ Este repositorio contiene una aplicación Laravel de ejemplo con un CRUD básico
 
 4. Usar MySQL para pruebas locales:
 
-	# DB_CONNECTION=mysql
-	# DB_DATABASE=laravel
-	# DB_HOST=127.0.0.1
-	# DB_PORT=3306
-	# DB_USERNAME=root
-	# DB_PASSWORD=tu_password
+	Hay que entrar en el admin y ir al MySQL y crear la base de datos con el nombre 'laravel'
 
 5. Ejecuta migraciones y seeders de ejemplo:
 
